@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/map/objects/MapObject.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/Launcher.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/background/Background.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/sound/SoundPlayer.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/input/InputManager.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/ui/buttons/Button.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/drawingSurface/DrawingSurface.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/ui/ClickListener.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/GameWindow.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/map/objects/entities/player/Player.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/background/Backgrounds.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/input/InputAction.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/shapes/Shape.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/ui/buttons/TextButton.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/loaders/FontLoader.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/map/coordinates/Coordinate.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/states/MainMenuState.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/loaders/ImageLoader.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/map/bounds/MapBounds.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/fonts/Fonts.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/states/World1State.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/gfx/writers/Writer.java</file>
+            <file>file:/C:/Users/Patryk%20Sitko/Documents/BluntMania/src/game/timers/Timer.java</file>
+        </group>
+    </open-files>
+</project-private>
